@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ev Panosu</string>
+    <string name="erisilebilirlik_aciklama">Kumandadaki Ana Sayfa tuşuna basıldığında Google TV ekranı yerine Ev Panosu\'nu açar. Ekrandaki içeriği okumaz.</string>
+</resources>
